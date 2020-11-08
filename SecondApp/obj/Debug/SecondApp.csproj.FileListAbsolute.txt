@@ -1,0 +1,10 @@
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\bin\Debug\SecondApp.exe.config
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\bin\Debug\SecondApp.exe
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\bin\Debug\SecondApp.pdb
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.csprojAssemblyReference.cache
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.App2.resources
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.Properties.Resources.resources
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.csproj.GenerateResource.cache
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.csproj.CoreCompileInputs.cache
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.exe
+A:\Curso de PROGRAMAÇÃO IEFP\Cursos de C#\Game Institute - C# Programming\My Apps\Second_App\SecondApp\obj\Debug\SecondApp.pdb
